@@ -1,0 +1,11 @@
+name: churnpred
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - seaborn
+  - pandas
+  - matplotlib
+  - scikit-learn
+prefix: /home/pablo/anaconda3/envs/churnpred
